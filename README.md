@@ -1,20 +1,14 @@
 # Reviews Site
 
-## Module 3 Group Project
+## Module 3 Project
 
 ### Goals
 Build a dynamic web application with a MVC architecture.
 - Use TDD to create a suite of unit tests and integration tests.
 - Keep your code clean.
-  - Use a linter to maintain code style and formatting standards.
   - Use proper naming conventions.
   - Make clear and concise names for methods and variables.
   - Use OOP principles.
-- Use Agile workflows and tools.
-    - Use GitHub projects to create a kanban board for your project.
-    - Utilize sprint planning sessions to plan sprints.
-    - Sprint Retrospectives to reflect on your workflow and team dynamic.
-    - Mob/Pair Program at all times!
 - Make effective use of git and GitHub.
   - Make frequent commits.
   - Utilize good commit messages to describe the commit to teammates.
